@@ -1,0 +1,16 @@
+{
+  "name": "tenzies",
+  "type": "module",
+  "scripts": {
+    "dev": "imba serve",
+    "build": "imba build",
+    "preview": "imba preview"
+  },
+  "devDependencies": {
+    "imba": "^2.0.0-alpha.236",
+    "vite": "^5.3.5"
+  },
+  "dependencies": {
+    "nanoid": "^5.0.7"
+  }
+}
